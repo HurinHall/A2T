@@ -1,7 +1,6 @@
 Audio to Text with google translate
 ____________________________________
-This script is based on python, the following packages is required:
-speech_recognition, googletrans, pocketsphinx
+This script is based on python, it can help you to convert audio to text and translate text to other language, it can apply to smart home such as voice recognition.
 
 Install packages:
 ====================================
