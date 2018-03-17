@@ -46,3 +46,4 @@ or
 python3 recognize.py Google sample.flac output.txt -translate zh-CN
 ```
 If you don't specify the language, the default language is English.
+![Screenshot](screenshot.png)
