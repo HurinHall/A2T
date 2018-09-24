@@ -49,5 +49,8 @@ If you don't specify the language, the default language is English.
 
 ====================================
 
-Others: https://realpython.com/python-speech-recognition/
+Others:
+
+https://realpython.com/python-speech-recognition/
+
 http://docs.kitt.ai/snowboy/
